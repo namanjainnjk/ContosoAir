@@ -1,7 +1,7 @@
 # This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
 
 
-[![Build Status](https://dev.azure.com/namanjain0498/namanjain0498/_apis/build/status/ContosoAir.git?branchName=master)](https://dev.azure.com/namanjain0498/namanjain0498/_build/latest?definitionId=5&branchName=master)
+[![Build Status](https://dev.azure.com/namanjain3305/pul-yaml-njk/_apis/build/status/namanjainnjk.ContosoAir?branchName=master)](https://dev.azure.com/namanjain3305/pul-yaml-njk/_build/latest?definitionId=3&branchName=master)
 
 # Microsoft.Github CI Demo
 
